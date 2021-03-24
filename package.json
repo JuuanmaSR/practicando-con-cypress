@@ -1,0 +1,26 @@
+{
+  "name": "practicando-con-cypress",
+  "version": "1.0.0",
+  "description": "Usando tarea de r/argentina programa para practicar con cypress  Instalar http-server y cypress para utilizar los test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress-dev":"cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuuanmaSR/practicando-con-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuuanmaSR/practicando-con-cypress/issues"
+  },
+  "homepage": "https://github.com/JuuanmaSR/practicando-con-cypress#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
